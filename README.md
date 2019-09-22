@@ -1,2 +1,2 @@
 # Form-Configuration-Submission-Test
-HTML / CSS - Testing Form Configuration / Submission
+HTML - Testing Form Configuration / Submission
